@@ -10,3 +10,4 @@ This repository contains regular updates of vSOL holdings across defi. Currently
 - Meteora Dynamic Pool Farms, any farm including vSOL
 - Orca Whirlpool SOL-vSOL with 0.01% fee
 - Kamino Lending for Main Market & vSOL Multiply
+- Raydium CLMM, any pool that has vSOL as one of the mints
